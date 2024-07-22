@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.roof12",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|ROOF12  |E452C64B",
     "sourceGame": "rct2",
@@ -22,9 +19,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/ROOF12.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/ROOF12.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Roof",
@@ -44,9 +39,7 @@
             "ru-RU": "Блок",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto",
-            "hu-HU": "Tető",
-            "uk-UA": "Дах"
+            "fi-FI": "Katto"
         }
     }
 }

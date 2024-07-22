@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.ride.dhowwatr",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBCFB10|DHOWWATR|A290AEE5",
     "sourceGame": "rct2ww",
@@ -16,11 +14,7 @@
         "disableBreakdown": true,
         "carColours": [
             [
-                [
-                    "saturated_brown",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["saturated_brown", "bordeaux_red", "black"]
             ]
         ],
         "cars": {
@@ -40,19 +34,14 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
-            "loadingPositions": [
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3]
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/DHOWWATR.DAT[0..114]"
-    ],
+    "images": ["$RCT2:OBJDATA/DHOWWATR.DAT[0..114]"],
     "strings": {
         "name": {
             "en-GB": "Dhow Boats",
-            "fr-FR": "Sampan",
+            "fr-FR": "Ballade en sampan",
             "de-DE": "Dhau-Boote",
             "es-ES": "Atracción acuática Dhow",
             "it-IT": "Il sambuco",

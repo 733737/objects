@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.jailxx07",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA21|JAILXX07|EC3C6702",
     "sourceGame": "rct2tt",
@@ -21,9 +19,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/JAILXX07.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/JAILXX07.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Prison Wall Roof",
@@ -43,8 +39,7 @@
             "eo-ZZ": "Tegmento de Muro de Malliberejo",
             "ca-ES": "Teulada de mur de presó",
             "fi-FI": "Vankilan seinän katto",
-            "zh-CN": "监狱-屋顶",
-            "hu-HU": "Börtönfal tető"
+            "zh-CN": "监狱-屋顶"
         }
     }
 }

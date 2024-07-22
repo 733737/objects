@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.cstboat",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CSTBOAT |4B7F9741",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "water_coaster",
@@ -26,25 +20,13 @@
         "tailCars": 1,
         "carColours": [
             [
-                [
-                    "dark_brown",
-                    "bright_red",
-                    "black"
-                ]
+                ["dark_brown", "bright_red", "black"]
             ],
             [
-                [
-                    "grey",
-                    "dark_brown",
-                    "black"
-                ]
+                ["grey", "dark_brown", "black"]
             ],
             [
-                [
-                    "saturated_brown",
-                    "dark_green",
-                    "black"
-                ]
+                ["saturated_brown", "dark_green", "black"]
             ]
         ],
         "cars": [
@@ -69,14 +51,7 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [
-                    7,
-                    9,
-                    2,
-                    4,
-                    -3,
-                    -1
-                ]
+                "loadingPositions": [7, 9, 2, 4, -3, -1]
             },
             {
                 "rotationFrameMask": 0,
@@ -86,7 +61,7 @@
                 "carVisual": 8,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat": 1
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true
@@ -94,10 +69,7 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/CSTBOAT.DAT[0..1730]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/CSTBOAT.DAT[0..1730]", ""],
     "strings": {
         "name": {
             "en-GB": "Coaster Boats",
@@ -121,7 +93,7 @@
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
-            "fr-FR": "Voiture de montagnes russes en forme de bateau",
+            "fr-FR": "Voitures de montagnes russes en forme de bateau",
             "de-DE": "Bootsförmige Achterbahnwagen",
             "es-ES": "Vagones con forma de bote",
             "it-IT": "Carrozze da ottovolante a forma di barche",

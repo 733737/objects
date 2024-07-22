@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.ride.polchase",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F920|POLCHASE|8BACAB3E",
     "sourceGame": "rct2tt",
@@ -17,25 +15,13 @@
         "headCars": 0,
         "carColours": [
             [
-                [
-                    "bright_red",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["bright_red", "bright_red", "yellow"]
             ],
             [
-                [
-                    "dark_green",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["dark_green", "bright_red", "dark_green"]
             ],
             [
-                [
-                    "light_blue",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["light_blue", "white", "light_blue"]
             ]
         ],
         "cars": [
@@ -63,12 +49,7 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [
-                    5,
-                    3,
-                    -7,
-                    -9
-                ]
+                "loadingPositions": [5, 3, -7, -9]
             },
             {
                 "rotationFrameMask": 31,
@@ -76,7 +57,7 @@
                 "mass": 600,
                 "numSeats": 4,
                 "numSeatRows": 2,
-                "frictionSoundId": 2,
+                "frictionSoundId": 0,
                 "soundRange": 0,
                 "drawOrder": 7,
                 "frames": {
@@ -94,22 +75,15 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [
-                    7,
-                    9,
-                    -3,
-                    -1
-                ]
+                "loadingPositions": [7, 9, -3, -1]
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"
-    ],
+    "images": ["$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"],
     "strings": {
         "name": {
             "en-GB": "Police Car Trains",
-            "fr-FR": "Train voiture de police",
+            "fr-FR": "Course poursuite policière",
             "de-DE": "Polizeiautozüge",
             "es-ES": "Montaña rusa Persecución policial",
             "it-IT": "Ottovolante inseguimento della polizia",
@@ -120,6 +94,7 @@
             "pt-BR": "Trens Carro de Polícia",
             "ar-EG": "قطار سيارات الشرطة",
             "cs-CZ": "Policejní honička",
+            "en-US": "Police Car Trains",
             "ja-JP": "パトカー型トレイン",
             "pl-PL": "Policyjny pościg",
             "ru-RU": "Горки-Погоня",
@@ -130,7 +105,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
-            "fr-FR": "Train de montagnes russes avec des barres aux jambes capable de parcourir des boucles verticales en forme de voiture de police",
+            "fr-FR": "Grand huit que les passagers parcourent assis",
             "de-DE": "Achterbahnzüge mit Beckenhalterungen, die durch Loopings fahren können, mit dem Aussehen von Polizeiautos",
             "es-ES": "Una montaña rusa llena de bucles en la que los viajeros van sentados",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione seduta.",

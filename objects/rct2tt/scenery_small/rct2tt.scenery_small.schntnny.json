@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.schntnny",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA21|SCHNTNNY|4E59A1F2",
     "sourceGame": "rct2tt",
@@ -16,9 +14,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/SCHNTNNY.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/SCHNTNNY.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Racing Tannoy",
@@ -38,8 +34,7 @@
             "eo-ZZ": "Vetkuranta Laŭtparolilo",
             "ca-ES": "Post de megafonia",
             "fi-FI": "Kilparadan kaiuttimet",
-            "zh-CN": "赛场喇叭",
-            "hu-HU": "Verseny-hangosbemondó"
+            "zh-CN": "赛场喇叭"
         }
     }
 }

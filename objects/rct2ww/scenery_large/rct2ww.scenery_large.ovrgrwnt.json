@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_large.ovrgrwnt",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0B12|OVRGRWNT|329EA121",
     "sourceGame": "rct2ww",
@@ -25,25 +23,25 @@
                 "x": 0,
                 "y": 32,
                 "clearance": 255,
-                "walls": 1
+                "walls": 3
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 255,
-                "walls": 3
+                "walls": 2
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 255,
-                "walls": 8
+                "walls": 9
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 255,
-                "walls": 0
+                "walls": 3
             },
             {
                 "x": 32,
@@ -55,25 +53,23 @@
                 "x": 64,
                 "y": 0,
                 "clearance": 255,
-                "walls": 12
+                "walls": 9
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 255,
-                "walls": 4
+                "walls": 3
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 255,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/OVRGRWNT.DAT[0..39]"
-    ],
+    "images": ["$RCT2:OBJDATA/OVRGRWNT.DAT[0..39]"],
     "strings": {
         "name": {
             "en-GB": "Old Overgrown Tree",

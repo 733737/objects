@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.ctcar",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CTCAR   |2082E6E1",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
@@ -23,25 +17,13 @@
         "tailCars": 1,
         "carColours": [
             [
-                [
-                    "white",
-                    "bordeaux_red",
-                    "black"
-                ]
+                ["white", "bordeaux_red", "black"]
             ],
             [
-                [
-                    "black",
-                    "dark_green",
-                    "black"
-                ]
+                ["black", "dark_green", "black"]
             ],
             [
-                [
-                    "salmon_pink",
-                    "saturated_brown",
-                    "black"
-                ]
+                ["salmon_pink", "saturated_brown", "black"]
             ]
         ],
         "cars": [
@@ -60,10 +42,7 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [
-                    3,
-                    -3
-                ]
+                "loadingPositions": [3, -3]
             },
             {
                 "rotationFrameMask": 0,
@@ -73,21 +52,18 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat": 1
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/CTCAR.DAT[0..210]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/CTCAR.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Cheshire Cats",
-            "fr-FR": "Chat-char",
+            "fr-FR": "Chat-chars",
             "de-DE": "Grinsekatzen",
             "es-ES": "Gatos Cheshire",
             "it-IT": "Gatti del cheshire",
@@ -107,7 +83,7 @@
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles",
-            "fr-FR": "Véhicule à propulsion en forme de chat",
+            "fr-FR": "Véhicule à propulsion en forme de chats se déplaçant sur une route plane",
             "de-DE": "Angetriebene Fahrzeuge in Katzenform",
             "es-ES": "Vehículos autopropulsados con forma de gato que siguen la ruta de las vías",
             "it-IT": "Veicoli a motore a forma di gatto che seguono un percorso stabilito",

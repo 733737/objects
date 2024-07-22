@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_large.bandbusx",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA22|BANDBUSX|CF78C803",
     "sourceGame": "rct2tt",
@@ -25,28 +23,28 @@
                 "y": 32,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 1
+                "walls": 3
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 3
+                "walls": 2
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 9
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 0
+                "walls": 3
             },
             {
                 "x": 32,
@@ -60,27 +58,25 @@
                 "y": 0,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 9
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 4
+                "walls": 3
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 120,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/BANDBUSX.DAT[0..39]"
-    ],
+    "images": ["$RCT2:OBJDATA/BANDBUSX.DAT[0..39]"],
     "strings": {
         "name": {
             "en-GB": "Rock Band Tour Bus",
@@ -100,8 +96,7 @@
             "eo-ZZ": "Rondvojaĝo-Buso de Rokgrupo",
             "ca-ES": "Autobús de gira de banda de rock",
             "fi-FI": "Rokkibändin keikkabussi",
-            "zh-CN": "摇滚乐队巡游巴士",
-            "hu-HU": "Rockbanda turnébusz"
+            "zh-CN": "摇滚乐队巡游巴士"
         }
     }
 }

@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_group.scgartic",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0217|SCGARTIC|D5871DE0",
     "sourceGame": "rct2ww",
@@ -56,12 +54,10 @@
             "rct2ww.scenery_small.pva",
             "rct2ww.scenery_large.sunken"
         ],
-        "priority": 42,
+        "priority": 25,
         "entertainerCostumes": "snowman"
     },
-    "images": [
-        "$RCT2:OBJDATA/SCGARTIC.DAT[0..1]"
-    ],
+    "images": ["$RCT2:OBJDATA/SCGARTIC.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Antarctic Theming",

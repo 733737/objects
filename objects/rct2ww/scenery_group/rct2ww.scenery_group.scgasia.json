@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_group.scgasia",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0217|SCGASIA |FC87C768",
     "sourceGame": "rct2ww",
@@ -114,11 +112,9 @@
             "rct2ww.scenery_small.rshogi2",
             "rct2ww.scenery_small.rshogi3"
         ],
-        "priority": 43
+        "priority": 25
     },
-    "images": [
-        "$RCT2:OBJDATA/SCGASIA.DAT[0..1]"
-    ],
+    "images": ["$RCT2:OBJDATA/SCGASIA.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Asia Theming",

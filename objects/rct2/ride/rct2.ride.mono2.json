@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.mono2",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|MONO2   |4353CF22",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "monorail",
@@ -22,32 +16,16 @@
         },
         "carColours": [
             [
-                [
-                    "bright_red",
-                    "white",
-                    "black"
-                ]
+                ["bright_red", "white", "black"]
             ],
             [
-                [
-                    "white",
-                    "light_brown",
-                    "black"
-                ]
+                ["white", "light_brown", "black"]
             ],
             [
-                [
-                    "light_purple",
-                    "bordeaux_red",
-                    "black"
-                ]
+                ["light_purple", "bordeaux_red", "black"]
             ],
             [
-                [
-                    "yellow",
-                    "grey",
-                    "black"
-                ]
+                ["yellow", "grey", "black"]
             ]
         ],
         "cars": {
@@ -69,12 +47,7 @@
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
-            "loadingPositions": [
-                3,
-                -3,
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3, 3, -3]
         },
         "buildMenuPriority": 2
     },
@@ -87,7 +60,7 @@
     "strings": {
         "name": {
             "en-GB": "Small Monorail Cars",
-            "fr-FR": "Petite voiture monorail",
+            "fr-FR": "Petites voitures monorail",
             "de-DE": "Kleine Einschienenwagen",
             "es-ES": "Coche Pequeño Monorrail",
             "it-IT": "Piccole carrozze monorotaie",
@@ -107,7 +80,7 @@
         },
         "description": {
             "en-GB": "Small monorail cars with open sides",
-            "fr-FR": "Petite voiture monorail ouverte sur les côtés",
+            "fr-FR": "Petites voitures monorail ouvertes sur les côtés",
             "de-DE": "Kleine Einschienenwagen mit offenen Seiten",
             "es-ES": "Pequeños vagones de monoraíl",
             "it-IT": "Piccole carrozze monorotaie aperte ai lati",

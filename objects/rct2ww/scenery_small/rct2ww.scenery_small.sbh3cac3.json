@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.sbh3cac3",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CCCCD11|SBH3CAC3|A4BD702B",
     "sourceGame": "rct2ww",
@@ -17,9 +15,7 @@
         "shape": "4/4",
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/SBH3CAC3.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/SBH3CAC3.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Cactus",

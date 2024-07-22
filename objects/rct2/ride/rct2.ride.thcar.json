@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.thcar",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|THCAR   |45DFCE16",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "air_powered_vertical_rc",
@@ -22,25 +16,13 @@
         "headCars": 1,
         "carColours": [
             [
-                [
-                    "bright_red",
-                    "bright_yellow",
-                    "black"
-                ]
+                ["bright_red", "bright_yellow", "black"]
             ],
             [
-                [
-                    "light_blue",
-                    "bright_red",
-                    "black"
-                ]
+                ["light_blue", "bright_red", "black"]
             ],
             [
-                [
-                    "yellow",
-                    "bright_red",
-                    "black"
-                ]
+                ["yellow", "bright_red", "black"]
             ]
         ],
         "cars": [
@@ -63,10 +45,7 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [
-                    3,
-                    -3
-                ]
+                "loadingPositions": [3, -3]
             },
             {
                 "rotationFrameMask": 31,
@@ -88,13 +67,11 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/THCAR.DAT[0..1166]"
-    ],
+    "images": ["$RCT2:OBJDATA/THCAR.DAT[0..1166]"],
     "strings": {
         "name": {
             "en-GB": "Air Powered Vertical Coaster Trains",
-            "fr-FR": "Train de montagnes russes verticales à air comprimé",
+            "fr-FR": "Voiture propulsée dans les airs",
             "de-DE": "Luftbetriebene Vertikalbahnzüge",
             "es-ES": "Montaña Rusa Vertical de Aire",
             "it-IT": "Corsa verticale ad aria",
@@ -114,7 +91,7 @@
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains",
-            "fr-FR": "Train de montagnes russes propulsé par de l’air comprimé",
+            "fr-FR": "Après avoir été propulsé dans les airs, le train accélère sur une voie verticale, passe le sommet, et retombe de l’autre côté en direction de la station",
             "de-DE": "Achterbahnzüge, die luftbetrieben gestartet werden",
             "es-ES": "Tras un excitante lanzamiento el vagón corre por una vía vertical hasta el tope y baja vertical por el otro lado",
             "it-IT": "Dopo un esilarante lancio effettuato sfruttando l’aria, il treno accelera lungo una salita verticale, supera la cima e scende per un pendio verticale per tornare infine alla stazione",

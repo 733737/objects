@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_group.scgaustr",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0217|SCGAUSTR|DBE35350",
     "sourceGame": "rct2ww",
@@ -51,11 +49,9 @@
             "rct2ww.scenery_small.fountrow",
             "rct2ww.scenery_small.fountarc"
         ],
-        "priority": 44
+        "priority": 25
     },
-    "images": [
-        "$RCT2:OBJDATA/SCGAUSTR.DAT[0..1]"
-    ],
+    "images": ["$RCT2:OBJDATA/SCGAUSTR.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Australasian Theming",

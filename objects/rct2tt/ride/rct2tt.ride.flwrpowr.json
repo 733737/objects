@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.ride.flwrpowr",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA20|FLWRPOWR|B620436B",
     "sourceGame": "rct2tt",
@@ -18,18 +16,10 @@
         },
         "carColours": [
             [
-                [
-                    "white",
-                    "light_orange",
-                    "black"
-                ]
+                ["white", "light_orange", "black"]
             ],
             [
-                [
-                    "light_purple",
-                    "bright_red",
-                    "black"
-                ]
+                ["light_purple", "bright_red", "black"]
             ]
         ],
         "cars": {
@@ -49,42 +39,36 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [
-                0
-            ]
+            "loadingPositions": [0]
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/FLWRPOWR.DAT[0..66]"
-    ],
+    "images": ["$RCT2:OBJDATA/FLWRPOWR.DAT[0..66]"],
     "strings": {
         "name": {
-            "en-GB": "Flower Power Dodgems",
+            "en-GB": "Flower Power Ride",
             "fr-FR": "Flower Power",
             "de-DE": "Flower-Power-Fahrt",
-            "es-ES": "Coches de choque Paz y Amor",
+            "es-ES": "Viaje de poder de las flores",
             "it-IT": "Corsa floreale",
             "nl-NL": "Flowerpower-schotels",
             "sv-SE": "Flower power",
-            "ko-KR": "가든 파워 범퍼카",
+            "ko-KR": "가든 파워 라이드",
             "zh-TW": "花的魅力遊樂設施",
             "ja-JP": "フラワーパワーバンパーカー",
-            "pt-BR": "Bate-bate Paz e Amor",
+            "pt-BR": "Brinquedo Paz e Amor",
             "cs-CZ": "Květinová vznášedla",
             "pl-PL": "Dzieci Kwiaty",
             "ru-RU": "Цветок",
-            "eo-ZZ": "Florpotencaj Doĝemoj",
+            "eo-ZZ": "Florpotenco-Atrakcio",
             "ca-ES": "Atracció Flower Power",
             "fi-FI": "Kukkavoimaa",
-            "zh-CN": "花之力",
-            "en-US": "Flower Power Bumper Cars",
-            "hu-HU": "Virágbéke dodzsemek"
+            "zh-CN": "花之力"
         },
         "description": {
             "en-GB": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
             "fr-FR": "Petits canots pneumatiques en forme de fleurs alimentés par un moteur central que contrôlent les passagers",
             "de-DE": "Die Fahrer fahren in blumenförmigen Luftkissenfahrzeugen, die sie selbst steuern",
-            "es-ES": "Los usuarios conducen libremente pequeños coches con forma de flor",
+            "es-ES": "Pequeños botes decorados como flores controlados por un monitor central que controlan los pasajeros.",
             "it-IT": "Piccoli fiori a forma di canotti circolari, alimentati da un motore montato al centro e controllati dai passeggeri.",
             "nl-NL": "Vliegende schotels in de vorm van een bloem die de passagiers zelf besturen",
             "sv-SE": "Blomformade svävarfordon",
@@ -98,8 +82,7 @@
             "eo-ZZ": "Rajdantoj rajdas en floroformaj kusenveturiloj, kiujn ili stiras libere",
             "ca-ES": "Atracció on els passatgers condueixen bots petits en forma de flor.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan kukan muotoisissa ilmatyynyaluksissa",
-            "zh-CN": "乘客乘坐他们自由控制的花形气垫船",
-            "hu-HU": "Az utasok virág alakú légpárnás járművekben utaznak, melyeket szabadon irányíthatnak"
+            "zh-CN": "乘客乘坐他们自由控制的花形气垫船"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -119,8 +102,7 @@
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "zh-CN": "1位乘客/车",
-            "hu-HU": "1 utas kocsinként"
+            "zh-CN": "1位乘客/车"
         }
     }
 }

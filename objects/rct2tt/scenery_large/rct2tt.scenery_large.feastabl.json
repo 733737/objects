@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_large.feastabl",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F822|FEASTABL|B45B5645",
     "sourceGame": "rct2tt",
@@ -32,20 +30,18 @@
                 "y": 0,
                 "clearance": 24,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 24,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/FEASTABL.DAT[0..19]"
-    ],
+    "images": ["$RCT2:OBJDATA/FEASTABL.DAT[0..19]"],
     "strings": {
         "name": {
             "en-GB": "Feast Table",

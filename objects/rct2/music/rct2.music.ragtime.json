@@ -1,14 +1,9 @@
 {
     "id": "rct2.music.ragtime",
-    "authors": [
-        "Charles Krolek"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC18|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 18,
@@ -42,8 +37,7 @@
             "zh-CN": "拉格泰姆风格",
             "zh-TW": "雷格泰姆音樂風格",
             "eo-ZZ": "Ragtimo-stilo",
-            "fi-FI": "Ragtime-tyylinen",
-            "nb-NO": "Ragtime-stil"
+            "fi-FI": "Ragtime-tyylinen"
         }
     }
 }

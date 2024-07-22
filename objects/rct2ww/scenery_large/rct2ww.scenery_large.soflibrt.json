@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_large.soflibrt",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0812|SOFLIBRT|91D29F3D",
     "sourceGame": "rct2ww",
@@ -31,20 +29,18 @@
                 "y": 0,
                 "clearance": 255,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 255,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/SOFLIBRT.DAT[0..19]"
-    ],
+    "images": ["$RCT2:OBJDATA/SOFLIBRT.DAT[0..19]"],
     "strings": {
         "name": {
             "en-GB": "Statue of Liberty",

@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_large.saloon",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C82|SALOON  |B1E6545E",
     "sourceGame": "rct2",
@@ -43,9 +40,7 @@
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/SALOON.DAT[0..19]"
-    ],
+    "images": ["$RCT2:OBJDATA/SALOON.DAT[0..19]"],
     "strings": {
         "name": {
             "en-GB": "Saloon",
@@ -63,8 +58,7 @@
             "fr-FR": "Saloon",
             "eo-ZZ": "Drinkejo",
             "ca-ES": "Cantina",
-            "fi-FI": "Saluuna",
-            "ar-EG": "صالون"
+            "fi-FI": "Saluuna"
         }
     }
 }

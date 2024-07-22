@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_large.robncamp",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F922|ROBNCAMP|5F594CB3",
     "sourceGame": "rct2tt",
@@ -23,13 +21,13 @@
                 "x": 0,
                 "y": 32,
                 "clearance": 180,
-                "walls": 1
+                "walls": 3
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 180,
-                "walls": 1
+                "walls": 9
             },
             {
                 "x": 0,
@@ -47,13 +45,13 @@
                 "x": 32,
                 "y": 32,
                 "clearance": 180,
-                "walls": 0
+                "walls": 2
             },
             {
                 "x": 32,
                 "y": 64,
                 "clearance": 180,
-                "walls": 0
+                "walls": 8
             },
             {
                 "x": 32,
@@ -71,13 +69,13 @@
                 "x": 64,
                 "y": 32,
                 "clearance": 180,
-                "walls": 0
+                "walls": 2
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 180,
-                "walls": 0
+                "walls": 8
             },
             {
                 "x": 64,
@@ -95,13 +93,13 @@
                 "x": 96,
                 "y": 32,
                 "clearance": 180,
-                "walls": 4
+                "walls": 6
             },
             {
                 "x": 96,
                 "y": 64,
                 "clearance": 180,
-                "walls": 4
+                "walls": 12
             },
             {
                 "x": 96,
@@ -111,9 +109,7 @@
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/ROBNCAMP.DAT[0..67]"
-    ],
+    "images": ["$RCT2:OBJDATA/ROBNCAMP.DAT[0..67]"],
     "strings": {
         "name": {
             "en-GB": "Robin Hood’s Camp",
@@ -134,8 +130,7 @@
             "ca-ES": "Campament d’en Robin Hood",
             "fi-FI": "Robin Hoodin leiri",
             "tr-TR": "Robin Hood’s Camp",
-            "zh-CN": "罗宾汉小屋",
-            "hu-HU": "Robin Hood tábora"
+            "zh-CN": "罗宾汉小屋"
         }
     }
 }

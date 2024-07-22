@@ -1,9 +1,6 @@
 {
     "id": "rct1ll.terrain_edge.stone_grey",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT1ESG|00000000",
     "sourceGame": "rct1ll",
@@ -33,7 +30,7 @@
             "ko-KR": "사암 (회색)",
             "eo-ZZ": "Sabloŝtono (Griza)",
             "sv-SE": "Sandsten (grå)",
-            "ca-ES": "Gres (gris)",
+            "ca-ES": "Gres (Gris)",
             "fi-FI": "Hiekkakivinen (harmaa)",
             "zh-CN": "砂岩(灰色)"
         }

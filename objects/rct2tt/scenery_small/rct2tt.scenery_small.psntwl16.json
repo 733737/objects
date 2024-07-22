@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.psntwl16",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F821|PSNTWL16|0184BB3B",
     "sourceGame": "rct2tt",
@@ -22,9 +20,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/PSNTWL16.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/PSNTWL16.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Roof Piece",

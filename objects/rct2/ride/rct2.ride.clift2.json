@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.clift2",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CLIFT2  |16FD5E5E",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "chairlift",
@@ -20,25 +14,13 @@
         },
         "carColours": [
             [
-                [
-                    "white",
-                    "bright_red",
-                    "black"
-                ]
+                ["white", "bright_red", "black"]
             ],
             [
-                [
-                    "white",
-                    "dark_green",
-                    "black"
-                ]
+                ["white", "dark_green", "black"]
             ],
             [
-                [
-                    "black",
-                    "white",
-                    "black"
-                ]
+                ["black", "white", "black"]
             ]
         ],
         "cars": {
@@ -54,16 +36,11 @@
             },
             "hasAdditionalColour1": true,
             "isChairlift": true,
-            "loadingPositions": [
-                4,
-                0
-            ]
+            "loadingPositions": [4, 0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/CLIFT2.DAT[0..90]"
-    ],
+    "images": ["$RCT2:OBJDATA/CLIFT2.DAT[0..90]"],
     "strings": {
         "name": {
             "en-GB": "Ski-lift Chairs",
@@ -87,7 +64,7 @@
         },
         "description": {
             "en-GB": "Open cars for chairlift",
-            "fr-FR": "Voiture ouverte pour télésiège",
+            "fr-FR": "Voitures ouvertes pour télésiège",
             "de-DE": "Offene Wagen für Sessellift",
             "es-ES": "Vagones abiertos para el telesilla",
             "it-IT": "Carrozze aperte che vengono trainate",

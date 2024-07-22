@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_large.1x2lgchm",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CCCCE12|1X2LGCHM|B43B4150",
     "sourceGame": "rct2ww",
@@ -16,19 +14,17 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 80,
-                "walls": 11
+                "walls": 9
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 80,
-                "walls": 14
+                "walls": 3
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/1X2LGCHM.DAT[0..11]"
-    ],
+    "images": ["$RCT2:OBJDATA/1X2LGCHM.DAT[0..11]"],
     "strings": {
         "name": {
             "en-GB": "Log Cabin Side Chimney",

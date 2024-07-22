@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_large.mcastl16",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F822|MCASTL16|84A1BBF7",
     "sourceGame": "rct2tt",
@@ -24,25 +22,25 @@
                 "x": 0,
                 "y": 32,
                 "clearance": 226,
-                "walls": 1
+                "walls": 3
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 226,
-                "walls": 3
+                "walls": 2
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 226,
-                "walls": 8
+                "walls": 9
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 226,
-                "walls": 0
+                "walls": 3
             },
             {
                 "x": 32,
@@ -54,25 +52,23 @@
                 "x": 64,
                 "y": 0,
                 "clearance": 226,
-                "walls": 12
+                "walls": 9
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 226,
-                "walls": 4
+                "walls": 3
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 226,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/MCASTL16.DAT[0..39]"
-    ],
+    "images": ["$RCT2:OBJDATA/MCASTL16.DAT[0..39]"],
     "strings": {
         "name": {
             "en-GB": "Castle Tower Straight Piece",

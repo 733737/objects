@@ -1,12 +1,8 @@
 {
     "id": "rct2tt.footpath_surface.queue_circuitboard",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
@@ -20,11 +16,7 @@
             "en-GB": "Circuit Queue",
             "de-DE": "Elektronische Warteschlange",
             "nl-NL": "Printplaat-wachtrij",
-            "eo-ZZ": "Cirkvitkarta Atendovico",
-            "ca-ES": "Cua d’estil circuit elèctric",
-            "fr-FR": "File d’attente circuit imprimé",
-            "ko-KR": "회로 기판 대기줄",
-            "pt-BR": "Fila Estilo Circuito"
+            "eo-ZZ": "Cirkvitkarta Atendovico"
         }
     }
 }

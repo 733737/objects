@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.park_entrance.futurent",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FB28|FUTURENT|FB2FD501",
     "sourceGame": "rct2tt",
@@ -11,9 +9,7 @@
         "scrollingMode": 3,
         "textHeight": 65
     },
-    "images": [
-        "$RCT2:OBJDATA/FUTURENT.DAT[0..11]"
-    ],
+    "images": ["$RCT2:OBJDATA/FUTURENT.DAT[0..11]"],
     "strings": {
         "name": {
             "en-GB": "Futuristic Park Entrance",

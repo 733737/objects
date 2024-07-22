@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_large.gdstaue2",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CC31D12|GDSTAUE2|6F780431",
     "sourceGame": "rct2ww",
@@ -32,14 +30,14 @@
                 "y": 0,
                 "clearance": 178,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 178,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 2
             }
         ]
     },

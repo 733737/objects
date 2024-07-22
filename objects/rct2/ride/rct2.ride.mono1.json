@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.mono1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|MONO1   |6DF225FF",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "monorail",
@@ -23,32 +17,16 @@
         "tailCars": 2,
         "carColours": [
             [
-                [
-                    "white",
-                    "bright_red",
-                    "dark_blue"
-                ]
+                ["white", "bright_red", "dark_blue"]
             ],
             [
-                [
-                    "white",
-                    "yellow",
-                    "dark_purple"
-                ]
+                ["white", "yellow", "dark_purple"]
             ],
             [
-                [
-                    "bordeaux_red",
-                    "yellow",
-                    "black"
-                ]
+                ["bordeaux_red", "yellow", "black"]
             ],
             [
-                [
-                    "black",
-                    "bright_red",
-                    "dark_purple"
-                ]
+                ["black", "bright_red", "dark_purple"]
             ]
         ],
         "cars": [
@@ -71,18 +49,7 @@
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
-                "loadingPositions": [
-                    10,
-                    -10,
-                    8,
-                    -8,
-                    10,
-                    -10,
-                    8,
-                    -8,
-                    10,
-                    -10
-                ]
+                "loadingPositions": [10, -10, 8, -8, 10, -10, 8, -8, 10, -10]
             },
             {
                 "rotationFrameMask": 31,
@@ -104,13 +71,7 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [
-                    -10,
-                    -8,
-                    -10,
-                    -8,
-                    -10
-                ]
+                "loadingPositions": [-10, -8, -10, -8, -10]
             },
             {
                 "rotationFrameMask": 31,
@@ -131,24 +92,16 @@
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
-                "loadingPositions": [
-                    10,
-                    8,
-                    10,
-                    8,
-                    10
-                ]
+                "loadingPositions": [10, 8, 10, 8, 10]
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": [
-        "$RCT2:OBJDATA/MONO1.DAT[0..422]"
-    ],
+    "images": ["$RCT2:OBJDATA/MONO1.DAT[0..422]"],
     "strings": {
         "name": {
             "en-GB": "Streamlined Monorail Trains",
-            "fr-FR": "Train monorail aérodynamique",
+            "fr-FR": "Trains monorail aérodynamiques",
             "de-DE": "Stromlinienf. Einschienenzüge",
             "es-ES": "Tren Monorrail Aerodinámico",
             "it-IT": "Treni monorotaia aerodinamici",
@@ -168,7 +121,7 @@
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
-            "fr-FR": "Train monorail de grande capacité composé de voitures aérodynamiques à l’avant et à l’arrière",
+            "fr-FR": "Trains monorail composés de voitures aérodynamiques à l’avant et à l’arrière",
             "de-DE": "Große Einschienenzüge mit stromlinienförmigen Wagen vorne und hinten",
             "es-ES": "Trenes monoraíl de gran capacidad con coches delateros y traseros aerodinámicos",
             "it-IT": "Treni monorotaia dalla grande capienza, con carrozze alle estremità dalle forme aerodinamiche",

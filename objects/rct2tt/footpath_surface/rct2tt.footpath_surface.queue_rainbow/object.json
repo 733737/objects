@@ -1,12 +1,8 @@
 {
     "id": "rct2tt.footpath_surface.queue_rainbow",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
@@ -20,11 +16,7 @@
             "en-GB": "Rainbow Queue",
             "de-DE": "Regenbogenwarteschlange",
             "nl-NL": "Regenboogwachtrij",
-            "eo-ZZ": "Ĉielarka Atendovico",
-            "ca-ES": "Cua arc de Sant Martí",
-            "fr-FR": "File d’attente arc-en-ciel",
-            "ko-KR": "무지개 대기줄",
-            "pt-BR": "Fila Arco-íris"
+            "eo-ZZ": "Ĉielarka Atendovico"
         }
     }
 }

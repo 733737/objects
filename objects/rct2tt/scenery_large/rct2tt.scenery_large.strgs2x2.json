@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_large.strgs2x2",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F822|STRGS2X2|FD13E58E",
     "sourceGame": "rct2tt",
@@ -33,20 +31,18 @@
                 "y": 0,
                 "clearance": 72,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 72,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/STRGS2X2.DAT[0..19]"
-    ],
+    "images": ["$RCT2:OBJDATA/STRGS2X2.DAT[0..19]"],
     "strings": {
         "name": {
             "en-GB": "Roman Palace Straight Piece",
@@ -66,8 +62,7 @@
             "eo-ZZ": "Rektaparto de Roma Palaco",
             "ca-ES": "Part recta de palau romà",
             "fi-FI": "Roomalaisen palatsin suora osa",
-            "zh-CN": "罗马宫殿-垂直部分",
-            "hu-HU": "Római palota egyenes elem"
+            "zh-CN": "罗马宫殿-垂直部分"
         }
     }
 }

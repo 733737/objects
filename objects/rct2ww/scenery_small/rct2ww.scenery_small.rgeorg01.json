@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.rgeorg01",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0911|RGEORG01|E6866C96",
     "sourceGame": "rct2ww",
@@ -18,9 +16,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/RGEORG01.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/RGEORG01.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Georgian Roof End Piece 1",

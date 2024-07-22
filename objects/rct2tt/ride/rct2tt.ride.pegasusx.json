@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.ride.pegasusx",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|PEGASUSX|488EFEF6",
     "sourceGame": "rct2tt",
@@ -19,25 +17,13 @@
         "tailCars": 1,
         "carColours": [
             [
-                [
-                    "bordeaux_red",
-                    "light_orange",
-                    "yellow"
-                ]
+                ["bordeaux_red", "light_orange", "black"]
             ],
             [
-                [
-                    "yellow",
-                    "bright_red",
-                    "yellow"
-                ]
+                ["yellow", "bright_red", "black"]
             ],
             [
-                [
-                    "dark_blue",
-                    "light_blue",
-                    "yellow"
-                ]
+                ["dark_blue", "light_blue", "black"]
             ]
         ],
         "cars": [
@@ -58,10 +44,7 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasVehicleAnimation": true,
-                "loadingPositions": [
-                    4,
-                    -4
-                ]
+                "loadingPositions": [4, -4]
             },
             {
                 "rotationFrameMask": 0,
@@ -71,21 +54,18 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat": 1
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true
             }
         ]
     },
-    "images": [
-        "$RCT2:OBJDATA/PEGASUSX.DAT[0..834]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/PEGASUSX.DAT[0..834]", ""],
     "strings": {
         "name": {
             "en-GB": "Pegasus Cars",
-            "fr-FR": "Voiture Pégase",
+            "fr-FR": "Pégase",
             "de-DE": "Pegasus-Wagen",
             "es-ES": "Viaje de pegaso",
             "it-IT": "Corsa di Pegaso",
@@ -102,12 +82,11 @@
             "eo-ZZ": "Pegaso-Ĉaroj",
             "ca-ES": "Cotxes pegàs",
             "fi-FI": "Pegasus-autot",
-            "zh-CN": "飞马车",
-            "hu-HU": "Pegazus kocsik"
+            "zh-CN": "飞马车"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Pegasus drawing a cart",
-            "fr-FR": "Véhicule à propulsion en forme de Pégase tirant une charrette",
+            "fr-FR": "Véhicule à propulsion en forme de Pégase tirant une charrette et parcourant une route plane",
             "de-DE": "Angetriebene Fahrzeuge in Form eines Pegasus, der einen Karren zieht",
             "es-ES": "Poderosos vehículos en forma de pegaso tiran de un carro, siguiendo una ruta prefijada.",
             "it-IT": "I veicoli elettrici, a forma di Pegaso che traina un carrello, seguono un circuito prestabilito.",
@@ -123,8 +102,7 @@
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel Pegaso tiranta ĉaron",
             "ca-ES": "Vehicles en forma de pegàs arrossegant un carro.",
             "fi-FI": "Pegasuksen vetämien vankkureiden muotoiset moottoroidut ajoneuvot",
-            "zh-CN": "以飞马形状的动力车辆",
-            "hu-HU": "Motoros járművek, amelyek úgy néznek ki, mintha Pegazus egy szekeret húzna"
+            "zh-CN": "以飞马形状的动力车辆"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -134,7 +112,7 @@
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 당 2명의 승객",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
             "ja-JP": "各車両2名",
             "pt-BR": "2 passageiros por vagão",
@@ -144,8 +122,7 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per ajoneuvo",
-            "zh-CN": "2位乘客/车",
-            "hu-HU": "2 utas kocsinként"
+            "zh-CN": "2位乘客/车"
         }
     }
 }

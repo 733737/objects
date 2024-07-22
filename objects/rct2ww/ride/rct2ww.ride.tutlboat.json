@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.ride.tutlboat",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0E10|TUTLBOAT|DF756C74",
     "sourceGame": "rct2ww",
@@ -20,25 +18,13 @@
         },
         "carColours": [
             [
-                [
-                    "yellow",
-                    "light_blue",
-                    "yellow"
-                ]
+                ["yellow", "light_blue", "black"]
             ],
             [
-                [
-                    "bright_red",
-                    "light_blue",
-                    "yellow"
-                ]
+                ["bright_red", "light_blue", "black"]
             ],
             [
-                [
-                    "dark_green",
-                    "yellow",
-                    "yellow"
-                ]
+                ["dark_green", "yellow", "black"]
             ]
         ],
         "cars": {
@@ -56,15 +42,10 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3]
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/TUTLBOAT.DAT[0..66]"
-    ],
+    "images": ["$RCT2:OBJDATA/TUTLBOAT.DAT[0..66]"],
     "strings": {
         "name": {
             "en-GB": "Turtle Boats",
@@ -89,7 +70,7 @@
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-            "fr-FR": "Petit canot pneumatiques de forme circulaire alimenté par un moteur central que contrôle les passagers",
+            "fr-FR": "Petits canots pneumatiques de forme circulaire alimentés par un moteur central que contrôlent les passagers",
             "de-DE": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
             "es-ES": "Botes pequeños inflables redondos propulsados por un motor central controlado por los pasajeros",
             "it-IT": "Usa piccole imbarcazioni circolari spinte da un motore centrale controllato dai passeggeri",
@@ -108,7 +89,7 @@
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
-            "fr-FR": "2 passagers par canot",
+            "fr-FR": "2 passagers par voiture",
             "de-DE": "2 Fahrgäste pro Boot",
             "es-ES": "2 pasajeros por bote",
             "it-IT": "2 passeggeri per imbarcazione",

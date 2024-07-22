@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.medtrget",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F921|MEDTRGET|98F3F298",
     "sourceGame": "rct2tt",
@@ -19,9 +17,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/MEDTRGET.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/MEDTRGET.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Archery Target",
@@ -41,8 +37,7 @@
             "eo-ZZ": "Celdisko por Arkopafo",
             "ca-ES": "Diana",
             "fi-FI": "Jousitaulu",
-            "zh-CN": "箭靶子",
-            "hu-HU": "Íjászati céltábla"
+            "zh-CN": "箭靶子"
         }
     }
 }

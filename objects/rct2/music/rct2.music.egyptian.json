@@ -1,23 +1,16 @@
 {
     "id": "rct2.music.egyptian",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC06|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 6,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css22.dat",
-                "name": "Pharaoh’s Tomb",
-                "composer": "Allister Brimble"
+                "name": "Pharaoh’s Tomb"
             }
         ]
     },
@@ -43,8 +36,7 @@
             "tr-TR": "Mısırlı tarzı",
             "zh-CN": "埃及风格",
             "zh-TW": "埃及風格",
-            "eo-ZZ": "Egipta stilo",
-            "nb-NO": "Egyptisk stil"
+            "eo-ZZ": "Egipta stilo"
         }
     }
 }

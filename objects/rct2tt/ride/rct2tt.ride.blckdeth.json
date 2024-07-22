@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.ride.blckdeth",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|BLCKDETH|EDB1E78A",
     "sourceGame": "rct2tt",
@@ -13,25 +11,13 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                [
-                    "light_blue",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["light_blue", "white", "bright_red"]
             ],
             [
-                [
-                    "bright_red",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["bright_red", "saturated_red", "yellow"]
             ],
             [
-                [
-                    "yellow",
-                    "bright_pink",
-                    "yellow"
-                ]
+                ["yellow", "dark_olive_green", "light_orange"]
             ]
         ],
         "cars": {
@@ -52,19 +38,14 @@
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
             "useSlideSwing": true,
-            "loadingPositions": [
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3]
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/BLCKDETH.DAT[0..2706]"
-    ],
+    "images": ["$RCT2:OBJDATA/BLCKDETH.DAT[0..2706]"],
     "strings": {
         "name": {
             "en-GB": "Black Death Trains",
-            "fr-FR": "Train de la peste noire",
+            "fr-FR": "La peste noire",
             "de-DE": "Schwarzer-Tod-Züge",
             "es-ES": "El viaje de la peste negra",
             "it-IT": "Corsa della morte nera",
@@ -85,7 +66,7 @@
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Train en forme de rat où les passagers sont assis l’un derrière l’autre",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d’une grande voiture en forme de rat dirigée uniquement par les courbes et l’inclinaison de la voie semi-circulaire",
             "de-DE": "Rattenförmige Züge, die aus Zweisitzerwagen bestehen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los usuarios recorren, en coches en forma de rata, una ruta guiada únicamente por la curvatura y el desnivel del recorrido semicircular.",
             "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in carrozze a forma di topi, guidati solo dalla curvatura e dall’inclinazione del tracciato semi-circolare.",

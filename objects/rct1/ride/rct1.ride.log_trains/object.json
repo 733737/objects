@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.log_trains",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|RCT1ZLOG|00000000",
     "sourceGame": "rct1",
@@ -16,16 +13,10 @@
         "maxCarsPerTrain": 10,
         "carColours": [
             [
-                [
-                    "dark_brown",
-                    "dark_green"
-                ]
+                ["dark_brown", "dark_green"]
             ],
             [
-                [
-                    "light_brown",
-                    "bordeaux_red"
-                ]
+                ["light_brown", "bordeaux_red"]
             ]
         ],
         "cars": {
@@ -37,27 +28,24 @@
             "frictionSoundId": 2,
             "soundRange": 2,
             "drawOrder": 8,
-            "spriteGroups": {
-                "slopeFlat": 16,
-                "slopes12": 4,
-                "slopes25": 16,
-                "slopes42": 8,
-                "slopes60": 4,
-                "slopes8": 4,
-                "slopes16": 4,
-                "slopes50": 4,
-                "flatBanked22": 8,
-                "flatBanked45": 16,
-                "slopes12Banked22": 4,
-                "slopes8Banked22": 4,
+            "spriteGroups":{
+                "slopeFlat":16,
+                "slopes12":4,
+                "slopes25":16,
+                "slopes42":8,
+                "slopes60":4,
+                "slopes8":4,
+                "slopes16":4,
+                "slopes50":4,
+                "flatBanked22":8,
+                "flatBanked45":16,
+                "slopes12Banked22":4,
+                "slopes8Banked22":4,
                 "restraintAnimation": 4
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [
-                2,
-                4
-            ]
+            "loadingPositions": [2, 4]
         },
         "buildMenuPriority": 3
     },
@@ -66,6 +54,7 @@
         "",
         "",
         "$CSG[27658..27673]",
+    
         "$CSG[27674]",
         "$CSG[27682]",
         "$CSG[27690]",
@@ -90,6 +79,7 @@
         "$CSG[27724..27726]",
         "$CSG[27703]",
         "$CSG[27727..27729]",
+    
         "$CSG[27676]",
         "$CSG[27750]",
         "$CSG[27684]",
@@ -114,12 +104,14 @@
         "$CSG[27689]",
         "$CSG[27697]",
         "$CSG[27705]",
+    
         "$CSG[27742..27745]",
         "$CSG[27758..27761]",
         "$CSG[27746..27749]",
         "$CSG[27762..27765]",
         "$CSG[27754..27757]",
         "$CSG[27770..27773]",
+    
         "$CSG[27806]",
         "$CSG[27846]",
         "$CSG[27807]",
@@ -137,7 +129,9 @@
         "$CSG[27813]",
         "$CSG[27853]",
         "$CSG[27774..27805]",
+    
         "$CSG[27814..27845]",
+
         "$CSG[27730]",
         "$CSG[27733]",
         "$CSG[27736]",
@@ -150,7 +144,9 @@
         "$CSG[27735]",
         "$CSG[27738]",
         "$CSG[27741]",
+    
         "$CSG[27854..27869]",
+    
         "$CSG[27870]",
         "$CSG[27878]",
         "$CSG[27886]",
@@ -175,6 +171,7 @@
         "$CSG[27920..27922]",
         "$CSG[27899]",
         "$CSG[27923..27925]",
+    
         "$CSG[27872]",
         "$CSG[27946]",
         "$CSG[27880]",
@@ -199,12 +196,14 @@
         "$CSG[27885]",
         "$CSG[27893]",
         "$CSG[27901]",
+    
         "$CSG[27938..27941]",
         "$CSG[27954..27957]",
         "$CSG[27942..27945]",
         "$CSG[27958..27961]",
         "$CSG[27950..27953]",
         "$CSG[27966..27969]",
+    
         "$CSG[28002]",
         "$CSG[28042]",
         "$CSG[28003]",
@@ -222,7 +221,9 @@
         "$CSG[28009]",
         "$CSG[28049]",
         "$CSG[27970..28001]",
+    
         "$CSG[28010..28041]",
+
         "$CSG[27926]",
         "$CSG[27929]",
         "$CSG[27932]",
@@ -256,7 +257,9 @@
         "$RCT2:OBJDATA/ZLOG.DAT[29]",
         "$RCT2:OBJDATA/ZLOG.DAT[31]",
         "$RCT2:OBJDATA/ZLOG.DAT[33]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[35..42]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[43]",
         "$RCT2:OBJDATA/ZLOG.DAT[45]",
         "$RCT2:OBJDATA/ZLOG.DAT[47]",
@@ -273,6 +276,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[69]",
         "$RCT2:OBJDATA/ZLOG.DAT[71]",
         "$RCT2:OBJDATA/ZLOG.DAT[73]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[75]",
         "$RCT2:OBJDATA/ZLOG.DAT[77]",
         "$RCT2:OBJDATA/ZLOG.DAT[79]",
@@ -289,6 +293,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[101]",
         "$RCT2:OBJDATA/ZLOG.DAT[103]",
         "$RCT2:OBJDATA/ZLOG.DAT[105]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[43]",
         "$RCT2:OBJDATA/ZLOG.DAT[47]",
         "$RCT2:OBJDATA/ZLOG.DAT[51]",
@@ -297,6 +302,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[63]",
         "$RCT2:OBJDATA/ZLOG.DAT[67]",
         "$RCT2:OBJDATA/ZLOG.DAT[71]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[75]",
         "$RCT2:OBJDATA/ZLOG.DAT[79]",
         "$RCT2:OBJDATA/ZLOG.DAT[83]",
@@ -305,6 +311,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[95]",
         "$RCT2:OBJDATA/ZLOG.DAT[99]",
         "$RCT2:OBJDATA/ZLOG.DAT[103]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[43]",
         "$RCT2:OBJDATA/ZLOG.DAT[51]",
         "$RCT2:OBJDATA/ZLOG.DAT[59]",
@@ -313,7 +320,9 @@
         "$RCT2:OBJDATA/ZLOG.DAT[83]",
         "$RCT2:OBJDATA/ZLOG.DAT[91]",
         "$RCT2:OBJDATA/ZLOG.DAT[99]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[107..146]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[147]",
         "$RCT2:OBJDATA/ZLOG.DAT[149]",
         "$RCT2:OBJDATA/ZLOG.DAT[151]",
@@ -330,6 +339,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[173]",
         "$RCT2:OBJDATA/ZLOG.DAT[175]",
         "$RCT2:OBJDATA/ZLOG.DAT[177]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[179]",
         "$RCT2:OBJDATA/ZLOG.DAT[181]",
         "$RCT2:OBJDATA/ZLOG.DAT[183]",
@@ -346,6 +356,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[205]",
         "$RCT2:OBJDATA/ZLOG.DAT[207]",
         "$RCT2:OBJDATA/ZLOG.DAT[209]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[211]",
         "$RCT2:OBJDATA/ZLOG.DAT[219]",
         "$RCT2:OBJDATA/ZLOG.DAT[227]",
@@ -354,6 +365,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[251]",
         "$RCT2:OBJDATA/ZLOG.DAT[259]",
         "$RCT2:OBJDATA/ZLOG.DAT[267]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[275]",
         "$RCT2:OBJDATA/ZLOG.DAT[283]",
         "$RCT2:OBJDATA/ZLOG.DAT[291]",
@@ -362,7 +374,9 @@
         "$RCT2:OBJDATA/ZLOG.DAT[315]",
         "$RCT2:OBJDATA/ZLOG.DAT[323]",
         "$RCT2:OBJDATA/ZLOG.DAT[331]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[339..366]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[367]",
         "$RCT2:OBJDATA/ZLOG.DAT[369]",
         "$RCT2:OBJDATA/ZLOG.DAT[371]",
@@ -379,7 +393,9 @@
         "$RCT2:OBJDATA/ZLOG.DAT[393]",
         "$RCT2:OBJDATA/ZLOG.DAT[395]",
         "$RCT2:OBJDATA/ZLOG.DAT[397]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[399..406]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[407]",
         "$RCT2:OBJDATA/ZLOG.DAT[409]",
         "$RCT2:OBJDATA/ZLOG.DAT[411]",
@@ -396,6 +412,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[433]",
         "$RCT2:OBJDATA/ZLOG.DAT[435]",
         "$RCT2:OBJDATA/ZLOG.DAT[437]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[439]",
         "$RCT2:OBJDATA/ZLOG.DAT[441]",
         "$RCT2:OBJDATA/ZLOG.DAT[443]",
@@ -412,6 +429,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[465]",
         "$RCT2:OBJDATA/ZLOG.DAT[467]",
         "$RCT2:OBJDATA/ZLOG.DAT[469]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[407]",
         "$RCT2:OBJDATA/ZLOG.DAT[411]",
         "$RCT2:OBJDATA/ZLOG.DAT[415]",
@@ -420,6 +438,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[427]",
         "$RCT2:OBJDATA/ZLOG.DAT[431]",
         "$RCT2:OBJDATA/ZLOG.DAT[435]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[439]",
         "$RCT2:OBJDATA/ZLOG.DAT[443]",
         "$RCT2:OBJDATA/ZLOG.DAT[447]",
@@ -428,6 +447,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[459]",
         "$RCT2:OBJDATA/ZLOG.DAT[463]",
         "$RCT2:OBJDATA/ZLOG.DAT[467]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[407]",
         "$RCT2:OBJDATA/ZLOG.DAT[415]",
         "$RCT2:OBJDATA/ZLOG.DAT[423]",
@@ -436,7 +456,9 @@
         "$RCT2:OBJDATA/ZLOG.DAT[447]",
         "$RCT2:OBJDATA/ZLOG.DAT[455]",
         "$RCT2:OBJDATA/ZLOG.DAT[463]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[471..510]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[511]",
         "$RCT2:OBJDATA/ZLOG.DAT[513]",
         "$RCT2:OBJDATA/ZLOG.DAT[515]",
@@ -453,6 +475,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[537]",
         "$RCT2:OBJDATA/ZLOG.DAT[539]",
         "$RCT2:OBJDATA/ZLOG.DAT[541]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[543]",
         "$RCT2:OBJDATA/ZLOG.DAT[545]",
         "$RCT2:OBJDATA/ZLOG.DAT[547]",
@@ -469,6 +492,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[569]",
         "$RCT2:OBJDATA/ZLOG.DAT[571]",
         "$RCT2:OBJDATA/ZLOG.DAT[573]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[575]",
         "$RCT2:OBJDATA/ZLOG.DAT[583]",
         "$RCT2:OBJDATA/ZLOG.DAT[591]",
@@ -477,6 +501,7 @@
         "$RCT2:OBJDATA/ZLOG.DAT[615]",
         "$RCT2:OBJDATA/ZLOG.DAT[623]",
         "$RCT2:OBJDATA/ZLOG.DAT[631]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[639]",
         "$RCT2:OBJDATA/ZLOG.DAT[647]",
         "$RCT2:OBJDATA/ZLOG.DAT[655]",
@@ -485,12 +510,13 @@
         "$RCT2:OBJDATA/ZLOG.DAT[679]",
         "$RCT2:OBJDATA/ZLOG.DAT[687]",
         "$RCT2:OBJDATA/ZLOG.DAT[695]",
+
         "$RCT2:OBJDATA/ZLOG.DAT[703..730]"
     ],
     "strings": {
         "name": {
             "en-GB": "Log Trains",
-            "fr-FR": "Train bûche",
+            "fr-FR": "Train-bûche",
             "de-DE": "Baumstammzüge",
             "es-ES": "Trenes Tronco",
             "it-IT": "Tronchi",
@@ -504,8 +530,7 @@
             "ja-JP": "ログ車両",
             "pl-PL": "Pociąg drwali",
             "ru-RU": "Бревна",
-            "eo-ZZ": "Ŝtipo-Trajnoj",
-            "ca-ES": "Trens troncs"
+            "eo-ZZ": "Ŝtipo-Trajnoj"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -523,8 +548,7 @@
             "ja-JP": "丸太の形をした車両のローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie pni drzew",
             "ru-RU": "Поезда с небольшими вагончиками.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj",
-            "ca-ES": "Muntanya russa amb trens que semblen troncs."
+            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -534,7 +558,7 @@
             "it-IT": "2 passeggeri a carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 당 2명의 승객",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
@@ -542,9 +566,7 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ar-EG": "2 راكب لكل عربة",
-            "ca-ES": "2 passatgers per cotxe"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }
