@@ -46,7 +46,7 @@
         }
     },
     "images": [
-	    "riverstyx.png",
+	     { "path":"images/0.png" },
         "$RCT2:OBJDATA/RIVRSTYX.DAT[1..98]"
     ],
     "strings": {

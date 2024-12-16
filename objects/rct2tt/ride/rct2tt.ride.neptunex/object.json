@@ -1049,7 +1049,7 @@
         }
     },
     "images": [
-	    "neptune.png",
+	     { "path":"images/0.png" },
         "$RCT2:OBJDATA/NEPTUNEX.DAT[1..242]"
     ],
     "strings": {

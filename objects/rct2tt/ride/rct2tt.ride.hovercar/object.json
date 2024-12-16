@@ -77,7 +77,7 @@
         ]
     },
     "images": [
-        "hovercar.png",
+         { "path":"images/0.png" },
         "",
         "",
         "$RCT2:OBJDATA/HOVERCAR.DAT[3..234]",
